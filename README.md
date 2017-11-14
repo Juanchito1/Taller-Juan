@@ -1,2 +1,2 @@
-# Taller-JuanG
+# Taller-Juan
 Taller de prueba
